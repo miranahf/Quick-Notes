@@ -1,0 +1,23 @@
+{
+  "name": "quick-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"vuepress dev docs --open",
+    "build":"vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miranahf/Quick-Notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miranahf/Quick-Notes/issues"
+  },
+  "homepage": "https://github.com/miranahf/Quick-Notes#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
